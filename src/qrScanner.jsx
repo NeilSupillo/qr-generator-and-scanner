@@ -82,7 +82,7 @@ function Scanner() {
 
   return (
     <div className="wrapper">
-      <h1>QR Code Generator</h1>
+      <h1>QR Code Scanner</h1>
       <form action="#" onClick={upload}>
         <input type="file" hidden />
         <img src="#" alt="qr-code" />
