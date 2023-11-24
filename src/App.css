@@ -22,6 +22,7 @@ body {
   width: 100vw;
   padding: 0.6rem;
   gap: 1.3rem;
+  margin-top: 1rem;
 }
 .wrapper {
   height: 270px;
